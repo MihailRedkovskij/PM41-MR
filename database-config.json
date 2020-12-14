@@ -1,0 +1,1 @@
+{ "ConnectionString": "mongodb+srv://user:1234@cluster0.yjdot.mongodb.net/pm4-mr?retryWrites=true&w=majority" }
